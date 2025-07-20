@@ -65,5 +65,4 @@ Below are the screenshots of the app demonstrating various screens and flows:
 - Kotlin
 - Android Studio
 
-## 📁 Folder Structure
 
