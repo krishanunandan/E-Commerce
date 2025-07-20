@@ -28,7 +28,7 @@ Below are the screenshots of the app demonstrating various screens and flows:
 </p>
 
 <p align="center">
-  <img src="doc/home" width="30%" />
+  <img src="doc/home.jpeg" width="30%" />
   <img src="doc/category.jpeg" width="30%" />
   <img src="doc/cart.jpeg" width="30%" />
 </p>
