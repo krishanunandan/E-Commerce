@@ -22,39 +22,39 @@ Below are the screenshots of the app demonstrating various screens and flows:
 ### 🔹 App UI Screens
 
 <p align="center">
-  <img src="doc/login.jpg" width="30%" />
-  <img src="doc/signup.jpg" width="30%" />
-  <img src="doc/home.jpg" width="30%" />
+  <img src="doc/login.jpeg" width="30%" />
+  <img src="doc/signup.jpeg" width="30%" />
+  <img src="doc/alert_dialog.jpeg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/screen4.jpg" width="30%" />
-  <img src="screenshots/screen5.jpg" width="30%" />
-  <img src="screenshots/screen6.jpg" width="30%" />
+  <img src="doc/home" width="30%" />
+  <img src="doc/category.jpeg" width="30%" />
+  <img src="doc/cart.jpeg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/screen7.jpg" width="30%" />
-  <img src="screenshots/screen8.jpg" width="30%" />
-  <img src="screenshots/screen9.jpg" width="30%" />
+  <img src="doc/setting.jpeg" width="30%" />
+  <img src="doc/product_list.jpeg" width="30%" />
+  <img src="doc/product_details.jpeg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/screen10.jpg" width="30%" />
-  <img src="screenshots/screen11.jpg" width="30%" />
-  <img src="screenshots/screen12.jpg" width="30%" />
+  <img src="doc/product_sort.jpeg" width="30%" />
+  <img src="doc/product_filter.jpeg" width="30%" />
+  <img src="doc/search.jpeg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/screen13.jpg" width="30%" />
-  <img src="screenshots/screen14.jpg" width="30%" />
-  <img src="screenshots/screen15.jpg" width="30%" />
+  <img src="doc/update_profile.jpeg" width="30%" />
+  <img src="doc/update_profile_1.jpeg" width="30%" />
+  <img src="doc/notification.jpeg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/screen16.jpg" width="30%" />
-  <img src="screenshots/screen17.jpg" width="30%" />
-  <img src="screenshots/screen18.jpg" width="30%" />
+  <img src="doc/about.jpeg" width="30%" />
+  <img src="doc/address.jpeg" width="30%" />
+  <img src="doc/delete_account.jpeg" width="30%" />
 </p>
 
 
